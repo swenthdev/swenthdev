@@ -18,7 +18,7 @@ Hello! I'm David Posada.
 
 💬 &nbsp;**Open to Feedback and Suggestions:** I'm always available to discuss projects, collaborate, or exchange ideas.
 
-📧 &nbsp;**Contact Me:** You can email me at [davidposada868@gmail.com](mailto:swenthdev@gmail.com). I'll do my best to respond as quickly as possible.
+📧 &nbsp;**Contact Me:** You can email me at [swenthdev@gmail.com](mailto:swenthdev@gmail.com). I'll do my best to respond as quickly as possible.
 
 ---
 
@@ -43,6 +43,6 @@ Hello! I'm David Posada.
 
 <p align="center">
 <a href="https://github.com/swenthdev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SwintDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=swenthdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
