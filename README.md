@@ -42,7 +42,7 @@ Hello! I'm David Posada.
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/SwintDev">
+<a href="https://github.com/swenthdev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SwintDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
