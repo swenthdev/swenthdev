@@ -18,7 +18,7 @@ Hello! I'm David Posada.
 
 💬 &nbsp;**Open to Feedback and Suggestions:** I'm always available to discuss projects, collaborate, or exchange ideas.
 
-📧 &nbsp;**Contact Me:** You can email me at [davidposada868@gmail.com](mailto:davidposada868@gmail.com). I'll do my best to respond as quickly as possible.
+📧 &nbsp;**Contact Me:** You can email me at [davidposada868@gmail.com](mailto:swenthdev@gmail.com). I'll do my best to respond as quickly as possible.
 
 ---
 
