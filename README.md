@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Night Coding" width="500px" height="300px" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+  <img alt="Night Coding" width="500px" height="400px" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 </div>
 
 <h2 align="center">I'm SwenthDev</h2>
